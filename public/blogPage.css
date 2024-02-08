@@ -1,0 +1,19 @@
+li {
+    background-color: beige;
+    border-radius:20px;
+    list-style-type: none;
+}
+
+#post {
+    border-radius:6px;
+    background-color: rgb(148, 234, 145);
+    font-size:20px;
+}
+#data{
+    background-color: rgb(208, 221, 221);
+    gap:30px;
+    display: flex;
+}
+p{
+    background-color: rgb(235, 229, 222);
+}

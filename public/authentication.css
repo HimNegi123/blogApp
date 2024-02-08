@@ -1,0 +1,66 @@
+  #contentContainer {
+    width: 300px;
+    margin: 50px auto; 
+  }
+  #AuthLink {
+    width: 300px;
+    display: flex;
+    padding: 4px;
+    justify-content: space-between;
+  }
+  /* Button styling */
+  button {
+    background-color: #4CAF50; /* Adjust color */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+ border-radius: 10px;
+  }
+  
+  /* Button hover effect */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Form styling */
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    width: 100%; /* Adjust as needed */
+  }
+  
+  /* Label styling */
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  /* Input field styling */
+  input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    display: inline-block;
+  }
+  
+  /* Submit button styling */
+  #Submit {
+    background-color: #008CBA; /* Adjust color */
+    color: white;
+  }
+  

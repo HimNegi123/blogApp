@@ -1,0 +1,33 @@
+body {
+   margin: 0;
+}
+#layer1{
+    height: 50vh; 
+    width: 100%;
+    background-color: rgb(248, 225, 172);
+}
+#layer2{
+    top:50%;
+    height: 50vh; 
+    width: 100%;
+    background-color: rgb(6, 92, 213);
+}
+h1 {
+    color: rgb(241, 40, 13);
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    font-size: 50px;
+    transform: translate(-50%, -50%);
+}
+
+#SignIn {
+    background-color: rgb(190, 104, 18);
+    color: rgb(231, 225, 225);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+}
